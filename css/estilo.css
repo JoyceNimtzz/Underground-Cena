@@ -19,3 +19,20 @@ width: 70% ;
 figure{
 	text-align: center;
 }
+
+iframe{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
